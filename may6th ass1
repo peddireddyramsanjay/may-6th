@@ -1,0 +1,7 @@
+s={1:['sanjay','male','mpair',98],2:['nani','male','mpair',100],3:['ravi','male','mpair',99]}
+x=int(input('enter a number:-'))
+print('name of the student:-',s[x][0])
+print('gender:-',s[x][1])
+print('section',s[x][2])
+print('marks',s[x][3])
+
