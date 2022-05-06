@@ -1,0 +1,9 @@
+emp={1:[123,'sanjay','developer',500000,3-10-2023,'kakinada'],2:[456,'nani','software developer',600000,1-11-2023,'kakinada'],3:[789,'ravi','code developer',700000,2-12-2023,'kakinada']}
+x=int(input('enter a number:-'))
+print('name of the employee number:-',emp[x][0])
+print('name of the employee :-',emp[x][1])
+print('designation:-',emp[x][2])
+print('employee salary:-',emp[x][3])
+print('emplyee joining date:-',emp[x][4])
+print('employee city:-',emp[x][5])
+
